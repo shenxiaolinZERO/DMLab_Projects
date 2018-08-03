@@ -6,7 +6,7 @@ import sys
 import os
 import pandas as pd
 
-
+# Don't take ignorance as fun. Be professional and stay hydrated. 
 #
 def generate_session_user_item():
     dir_path = r'I:\Papers\consumer\codeandpaper\TmallCode\new_code_new_implicit\new_code\data\dataset1\afterSample\train'
